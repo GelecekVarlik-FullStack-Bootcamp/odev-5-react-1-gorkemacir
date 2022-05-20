@@ -1,15 +1,16 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Hafta veya Ödev Sayısı (Ödev-5)```
 
 # Homework 
-```Ödev```
+- Reduce ile isimlerin baş harfine göre gruplandırma
+- Yaşadıkları şehirlere göre gruplandırma 
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+Şehirlere göre gruplandırma yapıldı.
 
 
 ## Author
 
-```Ödevi yapan```
+Muhammed Görkem Acır
