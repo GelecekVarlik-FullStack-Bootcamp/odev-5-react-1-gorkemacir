@@ -1,5 +1,5 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (Ödev-5)```
+Ödev-5
 
 # Homework 
 - Reduce ile isimlerin baş harfine göre gruplandırma
